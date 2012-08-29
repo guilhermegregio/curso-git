@@ -94,3 +94,11 @@ git checkout NOME_DA_BRANCH
 Enviar um branch para o repositorio remoto
 git push origin NOME_DA_BRANCH
 
+Para não precisar digitar origin NOME_DA_BRANCH no push e pull
+git push -u origin NOME_DA_BRANCH
+
+Visualizar branch's remoto
+git branch -r
+
+Copiar uma branch remota para o local
+git branch -t NOME_DA_BRANCH origin/NOME_BRANCH_REMOTA
