@@ -1,5 +1,6 @@
 Author: Guilherme Mangabeira Gregio
-Version: 0.1
+E-mail: guilherme@gregio.net
+Version: 0.2
 
 Copiando um projeto do Github para sua maquina:
 
