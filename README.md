@@ -77,3 +77,20 @@ git log
 
 Visualizar o que sofreu alteração
 git whatchanged 
+
+Trabalhando com branch's
+
+Listar branch's 
+git branch
+
+Note que o "*" mostra em qual branch estamos no momento
+
+Criar uma branch
+git branch NOME_DA_BRANCH
+
+Ir para uma branch especifica
+git checkout NOME_DA_BRANCH
+
+Enviar um branch para o repositorio remoto
+git push origin NOME_DA_BRANCH
+
