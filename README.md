@@ -2,6 +2,15 @@ Author: Guilherme Mangabeira Gregio
 E-mail: guilherme@gregio.net
 Version: 0.2
 
+
+Criando um repositório vazio
+Crie a pasta no seu computador e acesse esta pasta. Ex:
+mkdir curso-git
+cd curso-git
+
+Informando para o git que esta pasta sera versionada
+git init
+
 Copiando um projeto do Github para sua maquina:
 
 git clone git://github.com/[USER]/[REPOSITORIO].git 
