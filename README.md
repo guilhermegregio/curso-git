@@ -39,6 +39,12 @@ git commit -m 'MENSAGEM'
 Adicionar e fazer commit
 git commit -am 'MENSAGEM'
 
+Configurar repositório remoto
+git remote add origin git@github.com:[seu_nome_de_usuario]/[node_do_repositorio].git.
+
+Enviar os commits locais para o repositorio remoto
+git push origin master
+
 Copiando um projeto do Github para sua maquina:
 
 git clone git://github.com/[USER]/[REPOSITORIO].git 
