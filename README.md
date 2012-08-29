@@ -16,3 +16,6 @@ git tag NOME
 
 Substituir uma tag
 git tag NOME -f
+
+Comparar diferença entre tags
+git diff TAG1 TAG2
