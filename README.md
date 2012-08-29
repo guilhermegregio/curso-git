@@ -11,6 +11,31 @@ cd curso-git
 Informando para o git que esta pasta sera versionada
 git init
 
+Crie os arquivos que deseja no diretório;
+
+Verificar quais arquivos estão no git
+git ls-files
+
+Verificar modificações, arquivos não trakeados, etc
+git status
+
+Adicionar arquivos para o git
+git add NOME_ARQUIVO
+
+Adicionar tudo
+git add .
+
+Configurar no usuario e email que o blame captura
+git config user.name "João Carlos Fonseca"
+git config user.email "jcfonsecagit@gmail.com"
+
+Configurar o usuario e email pro sistema inteiro
+git config --global user.name "João Carlos Fonseca"
+git config --global user.email "jcfonsecagit@gmail.com"
+
+Fazer um commit
+git commit -m 'MENSAGEM'
+
 Copiando um projeto do Github para sua maquina:
 
 git clone git://github.com/[USER]/[REPOSITORIO].git 
