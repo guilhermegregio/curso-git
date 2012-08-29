@@ -45,6 +45,9 @@ git remote add origin git@github.com:[seu_nome_de_usuario]/[node_do_repositorio]
 Enviar os commits locais para o repositorio remoto
 git push origin master
 
+Sincronizando com o repositorio remoto
+git pull origin master
+
 Copiando um projeto do Github para sua maquina:
 
 git clone git://github.com/[USER]/[REPOSITORIO].git 
@@ -68,3 +71,9 @@ git checkout TAG_NAME
 
 Descobrir que alterou o arquivo linha a linha
 git blame NOME_DO_ARQUIVO
+
+Visualizar logs de commits
+git log
+
+Visualizar o que sofreu alteração
+git whatchanged 
