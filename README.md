@@ -102,3 +102,5 @@ git branch -r
 
 Copiar uma branch remota para o local
 git branch -t NOME_DA_BRANCH origin/NOME_BRANCH_REMOTA
+
+end of file
