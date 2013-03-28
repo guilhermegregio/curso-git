@@ -115,3 +115,23 @@ git rm --cached <NOME_DO_ARQUIVO>
 
 find . -name .DS_Store -print0 | xargs -0 git rm --cached --ignore-unmatch
 
+Boas práticas ao trabalhar com uma equipe de desenvolvedores
+Como evitar commit's com merge auto e etc
+
+git checkout dev
+
+git rebase master
+
+edita o comflito
+
+git add <arquivo conflitado>
+
+git rebase --continue
+
+git checkout master
+
+git merge dev
+
+
+
+
