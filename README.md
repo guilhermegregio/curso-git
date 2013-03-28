@@ -102,3 +102,16 @@ git branch -r
 
 Copiar uma branch remota para o local
 git branch -t NOME_DA_BRANCH origin/NOME_BRANCH_REMOTA
+
+
+Configurações globais GIT
+
+git config --global user.name "João Carlos Fonseca"
+git config --global user.email "jcfonsecagit@gmail.com"
+git config --global core.excludesfile ~/.gitignore
+
+Removendo do stage
+git rm --cached <NOME_DO_ARQUIVO>
+
+find . -name .DS_Store -print0 | xargs -0 git rm --cached --ignore-unmatch
+
