@@ -146,7 +146,12 @@ para jogar fora todas as alterações locais utilize:
 git checkout -f or git reset --HARD
 
 git checkout v1.2.3 -- filename         # tag v1.2.3
+
 git checkout stable -- filename         # stable branch
+
 git checkout origin/master -- filename  # upstream master
+
 git checkout HEAD -- filename           # the version from the most recent commit
+
 git checkout HEAD^ -- filename          # the version before the most recent commit
+
