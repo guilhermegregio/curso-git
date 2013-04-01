@@ -135,3 +135,10 @@ git merge dev
 
 
 
+REVERTENDO ARQUIVOS
+Obs: utilize '--' pois caso o nome do arquivo tenha o mesmo nome de um branch o '--' não vai deixar fazer um checkout no branch e sim no arquivo
+git checkout -- <file>
+
+para jogar fora todas as alterações locais utilize:
+
+git checkout -f or git reset --HARD
