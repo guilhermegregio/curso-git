@@ -155,3 +155,16 @@ git checkout HEAD -- filename           # the version from the most recent commi
 
 git checkout HEAD^ -- filename          # the version before the most recent commit
 
+Atualizando repositorios com FORK
+git remote add upstream "repositorio fork"
+
+Para pegar tudo
+git fetch upstream
+
+Rebase 
+git rebase upstream/master
+
+git push -f origin master
+
+Você deve usar -f só na primeira vez depois do rebase
+
