@@ -168,3 +168,5 @@ git push -f origin master
 
 Você deve usar -f só na primeira vez depois do rebase
 
+Commitar arquivo especifico
+git commit -m 'my notes' path/to/my/file.ext 
