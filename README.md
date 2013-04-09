@@ -7,7 +7,8 @@
 
 Teste `<blink/>`
 
-[alguma coisa](#Teste)
+[alguma coisa](#teste)
+
 Author: Guilherme Mangabeira Gregio
 E-mail: guilherme@gregio.net
 Version: 0.2
