@@ -180,4 +180,4 @@ Você deve usar -f só na primeira vez depois do rebase
 Commitar arquivo especifico
 git commit -m 'my notes' path/to/my/file.ext 
 
-Take me to [contact][#id]
+Take me to (contact)
