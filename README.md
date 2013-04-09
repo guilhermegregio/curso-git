@@ -1,5 +1,5 @@
 Curso GIT
-#############
+=====================
 
 ### Table of Contents
 * [Author](#author)
