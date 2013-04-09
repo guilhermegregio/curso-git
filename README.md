@@ -1,17 +1,18 @@
 Curso GIT
 #############
 
-## Table of Contents
+### Table of Contents
 * [Author](#author)
-* [Criando um repositorio vazio](#criando-um-repositorio-vazio)
+* [Criando um repositorio vazio](#criando-um-repositrio-vazio)
 
-## Author
+### Author
 
 Author: Guilherme Mangabeira Gregio
 E-mail: guilherme@gregio.net
 Version: 0.2
 
-## Criando um repositório vazio
+### Criando um repositório vazio
+
 Crie a pasta no seu computador e acesse esta pasta. Ex:
 mkdir curso-git
 cd curso-git
