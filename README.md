@@ -1,20 +1,17 @@
-# Curso GIT
-## Curso GIT
-### Curso GIT
-#### Curso GIT
-##### Curso GIT
-###### Curso GIT
+Curso GIT
+#############
 
-Teste `<blink/>`
+## Table of Contents
+* [Author](#author)
+* [Criando um repositorio vazio](#criando-um-repositorio-vazio)
 
-[alguma coisa](#teste)
+## Author
 
 Author: Guilherme Mangabeira Gregio
 E-mail: guilherme@gregio.net
 Version: 0.2
 
-
-Criando um repositório vazio
+## Criando um repositório vazio
 Crie a pasta no seu computador e acesse esta pasta. Ex:
 mkdir curso-git
 cd curso-git
@@ -181,7 +178,3 @@ Você deve usar -f só na primeira vez depois do rebase
 
 Commitar arquivo especifico
 git commit -m 'my notes' path/to/my/file.ext 
-
-# Teste
-
-Alguma coisa
