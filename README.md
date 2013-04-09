@@ -7,6 +7,7 @@
 
 Teste `<blink/>`
 
+[alguma coisa](#Teste)
 Author: Guilherme Mangabeira Gregio
 E-mail: guilherme@gregio.net
 Version: 0.2
@@ -180,5 +181,6 @@ Você deve usar -f só na primeira vez depois do rebase
 Commitar arquivo especifico
 git commit -m 'my notes' path/to/my/file.ext 
 
-<a id="contact_form"></a>
-Take me to (contact)
+# Teste
+
+Alguma coisa
